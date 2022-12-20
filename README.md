@@ -8,4 +8,4 @@
 [8,11,12,16,21,22]
 
 Big-o gösterimi
-nlog(n)
+O(nlogn)
